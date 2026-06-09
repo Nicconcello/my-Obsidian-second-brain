@@ -10,12 +10,12 @@ Il sistema è interamente sviluppato su **Obsidian**, sfruttando i principi del 
 
 Per evitare il caos e ordinare il tutto, il mio Vault di Obsidian è suddiviso secondo una logica rigorosa che separa i flussi di lavoro, la teoria e l'archiviazione:
 
-* **`10_Progetti/`** – Progetti non ancora iniziati per mancanza di tempo, conoscenze o materiali, ma che sono completamente idealizzati.
-* **`20_Aree/`** – I punti di accesso centrali. Cartella divisa per materie d'esame (es. *Algoritmi & Strutture Dati*, *Reti e Internet*, *Intelligenza Artificiale*). Ogni nota qui fa da "hub" per i concetti correlati.
-* **`30_Risorse/`** – Il cuore pulsante del sistema. Note atomiche, cortissime e focalizzate su un unico concetto specifico (es. la definizione di *MaxHeap* o il funzionamento del *NAT*), interconnesse tra loro tramite link.
-* **`40_Archive/`** – Tutto ciò che è completato (vecchi progetti). Rimane nel database per essere consultato dall'IA, ma non disturba la navigazione quotidiana.
-* **`50_Quotidiano/`** – Il mio diario di giornaliero. Serve a tracciare i progressi quotidiani, i task da fare e a treacciare le mie abitudini
-* **`60_Riflessioni/`** - Una raccolta di pensieri e appunti che avvolgono diverse tematiche.
+* **`1_Progetti/`** – Progetti non ancora iniziati per mancanza di tempo, conoscenze o materiali, ma che sono completamente idealizzati.
+* **`2_Aree/`** – I punti di accesso centrali. Cartella divisa per materie d'esame (es. *Algoritmi & Strutture Dati*, *Reti e Internet*, *Intelligenza Artificiale*). Ogni nota qui fa da "hub" per i concetti correlati.
+* **`3_Risorse/`** – Il cuore pulsante del sistema. Note atomiche, cortissime e focalizzate su un unico concetto specifico (es. la definizione di *MaxHeap* o il funzionamento del *NAT*), interconnesse tra loro tramite link.
+* **`4_Archive/`** – Tutto ciò che è completato (vecchi progetti). Rimane nel database per essere consultato dall'IA, ma non disturba la navigazione quotidiana.
+* **`5_Quotidiano/`** – Il mio diario di giornaliero. Serve a tracciare i progressi quotidiani, i task da fare e a treacciare le mie abitudini
+* **`6_Riflessioni/`** - Una raccolta di pensieri e appunti che avvolgono diverse tematiche.
 
 ---
 
