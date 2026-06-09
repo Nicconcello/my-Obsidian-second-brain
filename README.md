@@ -13,7 +13,7 @@ Per evitare il caos e ordinare il tutto, il mio Vault di Obsidian è suddiviso s
 * **`1-Progetti`** – Progetti non ancora iniziati per mancanza di tempo, conoscenze o materiali, ma che sono completamente idealizzati.
 * **`2-Aree`** – I punti di accesso centrali. Cartella divisa per materie d'esame (es. *Algoritmi & Strutture Dati*, *Reti e Internet*, *Intelligenza Artificiale*). Ogni nota qui fa da "hub" per i concetti correlati.
 * **`3-Risorse`** – Il cuore pulsante del sistema. Note atomiche, cortissime e focalizzate su un unico concetto specifico (es. la definizione di *MaxHeap* o il funzionamento del *NAT*), interconnesse tra loro tramite link.
-* **`4-Archive`** – Tutto ciò che è completato (vecchi progetti). Rimane nel database per essere consultato dall'IA, ma non disturba la navigazione quotidiana.
+* **`4-Archivio`** – Tutto ciò che è completato (vecchi progetti). Rimane nel database per essere consultato dall'IA, ma non disturba la navigazione quotidiana.
 * **`5-Quotidiano`** – Il mio diario di giornaliero. Serve a tracciare i progressi quotidiani, i task da fare e a treacciare le mie abitudini
 * **`6-Riflessioni`** - Una raccolta di pensieri e appunti che avvolgono diverse tematiche.
 
